@@ -11,6 +11,7 @@ import android.view.ViewGroup;
 import com.example.yuanping.todolist.R;
 
 public class MineFragment extends Fragment {
+
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container,
